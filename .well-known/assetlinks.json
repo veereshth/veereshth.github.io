@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.kp.tpmg.preventivecare.alpha",
+    "sha256_cert_fingerprints":
+    ["E6:97:00:09:08:0E:87:47:85:E3:BD:79:F1:E9:7D:4D:DC:A8:99:77:CF:16:1C:32:5D:62:96:88:74:18:A1:EB"]
+  }
+}]
