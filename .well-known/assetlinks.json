@@ -4,31 +4,6 @@
     "namespace": "android_app",
     "package_name": "org.kp.tpmg.preventivecare",
     "sha256_cert_fingerprints":
-    ["C4:93:08:79:71:6E:02:33:23:F4:12:64:6F:26:64:B1:BB:10:9E:F9:BC:B8:69:77:41:BB:C6:D5:DF:1F:8E:9B"]
-  }
-},
- {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "org.kp.tpmg.preventivecare",
-    "sha256_cert_fingerprints":
     ["E6:97:00:09:08:0E:87:47:85:E3:BD:79:F1:E9:7D:4D:DC:A8:99:77:CF:16:1C:32:5D:62:96:88:74:18:A1:EB"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://veereshth.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "org.kp.tpmg.preventivecare",
-    "sha256_cert_fingerprints":
-    ["C4:93:08:79:71:6E:02:33:23:F4:12:64:6F:26:64:B1:BB:10:9E:F9:BC:B8:69:77:41:BB:C6:D5:DF:1F:8E:9B"]
   }
 }]
