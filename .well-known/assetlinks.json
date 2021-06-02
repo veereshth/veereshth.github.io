@@ -4,7 +4,7 @@
     "namespace": "android_app",
     "package_name": "org.kp.tpmg.preventivecare.alpha",
     "sha256_cert_fingerprints":
-    ["7E:21:3D:11:19:C0:17:C7:46:89:87:7D:8E:48:76:A8:9B:D3:DD:9D:94:B0:43:75:B3:A7:88:66:3A:95:B3:26"]
+    ["E7:E0:24:D7:5B:30:E8:1D:39:B4:54:D4:7C:D1:2C:4F:EE:0E:24:D2:D5:2C:FA:68:51:15:44:F3:60:C9:CC:A6"]
   }
 },{
   "relation": ["delegate_permission/common.handle_all_urls"],
