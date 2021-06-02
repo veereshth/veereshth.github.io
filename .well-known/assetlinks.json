@@ -22,13 +22,12 @@
     "sha256_cert_fingerprints":
     ["7E:21:3D:11:19:C0:17:C7:46:89:87:7D:8E:48:76:A8:9B:D3:DD:9D:94:B0:43:75:B3:A7:88:66:3A:95:B3:26"]
   }
-},
-{
+},{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "org.kp.tpmg.preventivecare.test",
     "sha256_cert_fingerprints":
-    ["7E:21:3D:11:19:C0:17:C7:46:89:87:7D:8E:48:76:A8:9B:D3:DD:9D:94:B0:43:75:B3:A7:88:66:3A:95:B3:26"]
+    ["61:8B:E6:8C:95:D1:58:9F:86:33:F5:D2:D6:3F:5C:1B:1A:D1:76:82:E1:FC:BA:53:D2:8B:9D:34:E7:0B:5E:41"]
   }
 }]
